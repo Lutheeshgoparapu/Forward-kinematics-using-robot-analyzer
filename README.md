@@ -47,18 +47,18 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION
 
-##6DOF
+###6DOF
 
  ![2022-06-17](https://user-images.githubusercontent.com/94154531/174299241-19c5e505-2d96-4d35-8e06-692e62ed6fa8.png)
-##6D0F
+###6D0F
 
  ![2022-06-17 (2)](https://user-images.githubusercontent.com/94154531/174299334-bbac0283-7bad-415c-845a-93fd7d824ce6.png)
 
 
-##4DOF
+###4DOF
 
 ![2022-06-17 (3)](https://user-images.githubusercontent.com/94154531/174300111-754341e6-5e84-46b5-93b0-80aefdaf892f.png)
-##4DOF
+###4DOF
 
 ![2022-06-17 (4)](https://user-images.githubusercontent.com/94154531/174300199-06b04bf0-0598-4a66-a198-de18aff0fc4a.png)
  
